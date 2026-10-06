@@ -1,0 +1,2 @@
+# Student-Academic-Performance-Analysis-Dashboard
+Student Academic Performance Analysis Dashboard is a Python-based project that reads student marks from Excel using Pandas. It calculates percentage, grades, pass/fail results, average, highest and lowest marks. Matplotlib creates charts for subject-wise marks, performance trends, grade distribution, and an academic summary for easy analysis. daily
